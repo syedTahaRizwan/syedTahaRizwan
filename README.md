@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a Skilled game developer with expertise in Unreal Engine.
-- With 1 year of professional experience in game design, gameplay mechanics, and level design.
+- With 3+ year of professional experience in game design, gameplay mechanics, and level design.
 - and have Successfully delivered high-quality games, ranging from indie projects to large-scale commercial titles.
 - Moreover, Proficient in C++, Blueprint scripting, and other game development languages.
 - Experienced in project management, version control systems, and collaboration with cross-functional teams.
@@ -8,7 +8,7 @@ I am a Skilled game developer with expertise in Unreal Engine.
 - Collaborative team player committed to creating exciting and immersive games.
 
 ### Connect With Me:
-- [LinkedIn](https://www.linkedin.com/in/taha-rizwan-6a6297230/)
+- [LinkedIn](https://www.linkedin.com/in/taha-rizwan]
 <!--
 **syedTahaRizwan/syedTahaRizwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
